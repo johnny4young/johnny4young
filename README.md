@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](./github-header-image.png)
 
 <!--
 **johnny4young/johnny4young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,19 +26,22 @@ I value pragmatism over hype, fewer abstractions over clever ones, and tools tha
 
 ---
 
-## What I'm Working On
+## What I'm Building
 
 **Open Source**
 
-- 🐹 **[gos](https://github.com/johnny4young/gos)** — Install and switch Go versions in seconds. One Bash script. Zero dependencies. macOS · Linux · Windows.
-- 🍺 **homebrew-gos** — Homebrew tap for distributing `gos` across macOS and Linux.
-- 🌐 **lingua-marketing** — Public marketing site for **Lingua** ([linguacode.dev](https://www.linguacode.dev/)). Built with Astro 6, Tailwind v4, and deployed to Cloudflare Pages.
+- 🐹 **[gos](https://github.com/johnny4young/gos)** — Install and switch Go versions in seconds. One Bash script. Zero dependencies. macOS · Linux · Windows. &nbsp; ![Shell](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) [![Stars](https://img.shields.io/github/stars/johnny4young/gos?style=flat-square&label=★)](https://github.com/johnny4young/gos)
+- 🎭 **[electron-stagewright](https://github.com/electron-stagewright/electron-stagewright)** — Drive Electron apps the way Playwright drives browsers — an **MCP server built agent-first** for AI coding agents (Claude Code, Cursor, Codex, Cline). Launch apps, query the accessibility tree semantically, assert with retrying `expect_*` primitives, and replay session traces with per-tool token budgets. [Docs](https://electron-stagewright.github.io/electron-stagewright/) &nbsp; ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square) [![Stars](https://img.shields.io/github/stars/electron-stagewright/electron-stagewright?style=flat-square&label=★)](https://github.com/electron-stagewright/electron-stagewright)
+- 🖼️ **[vitrine](https://github.com/johnny4young/vitrine)** — Turn code into beautiful images, straight from your macOS menu bar. Native, instant, fully local — no account, no network. [Website](https://johnny4young.github.io/vitrine/) &nbsp; ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+- 🌐 **[lingua-marketing](https://github.com/johnny4young/lingua-marketing)** — Public marketing site for **Lingua** ([linguacode.dev](https://www.linguacode.dev/)). Built with Astro 6, Tailwind v4, and deployed to Cloudflare Pages. &nbsp; ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+- 🍺 **[homebrew-gos](https://github.com/johnny4young/homebrew-gos)** — Homebrew tap for distributing `gos` across macOS and Linux. &nbsp; ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white)
 
 **Currently Building** *(private)*
 
-- 🤖 **Janusly** — An **AI operator for business workflows**: a DAG runtime where AI is part of the loop, not glued on top. The differentiator is the **failure-recovery loop** — AI patch suggestions with self-rated confidence, sandbox replay before commit, cluster apply across DLQ entries sharing a failure signature, and one-click rollback. Generic workflow execution (durable retries, decision engine, RL adjustments, NL run explanations) is the table-stakes layer underneath. With an Anthropic key, it becomes end-to-end: *prompt → workflow → execution → decision → learning → recovery → rollback → conversational explainability*. Without one, every deterministic path still works.
-- 🛒 **Puntovivo** — Full-stack **POS platform (v3)**. TypeScript + tRPC, multi-vertical (retail, restaurants, delivery), offline-capable, with AI assistants (invoice OCR, in-app copilot), thermal-print receipt rules, and a custom design system for operator-grade UI.
-- 🧠 **Lingua** — [app.linguacode.dev](https://app.linguacode.dev/) · **Multi-language desktop code runner** — JavaScript, TypeScript, Python, Go, and Rust in one offline-first, Monaco-powered app. Combines Monaco Editor, a project file tree, inline console output, and language-specific execution backends for both desktop and web builds. The multi-language answer to RunJS: same "open, write, run" ergonomics, but with Go, Rust, and Python as first-class citizens instead of JavaScript-only. Public marketing site is open; the core product is private and in active development.
+- 🤖 **Janusly** — An **AI operator for business workflows**: a DAG runtime where AI is part of the loop, not glued on top. The differentiator is the **failure-recovery loop** — AI patch suggestions with self-rated confidence, sandbox replay before commit, cluster apply across DLQ entries sharing a failure signature, and one-click rollback. Generic workflow execution (durable retries, decision engine, RL adjustments, NL run explanations) is the table-stakes layer underneath. With an Anthropic key, it becomes end-to-end: *prompt → workflow → execution → decision → learning → recovery → rollback → conversational explainability*. Without one, every deterministic path still works. &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+- 🛒 **Puntovivo** — Full-stack **POS platform (v3)**. TypeScript + tRPC, multi-vertical (retail, restaurants, delivery), offline-capable, with AI assistants (invoice OCR, in-app copilot), thermal-print receipt rules, and a custom design system for operator-grade UI. &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+- 🧠 **Lingua** — [linguacode.dev](https://www.linguacode.dev/) · **Multi-language desktop code runner** — JavaScript, TypeScript, Python, Go, and Rust in one offline-first, Monaco-powered app. Combines Monaco Editor, a project file tree, inline console output, and language-specific execution backends for both desktop and web builds. The multi-language answer to RunJS: same "open, write, run" ergonomics, but with Go, Rust, and Python as first-class citizens instead of JavaScript-only. The marketing site is open source; the core product is private and in active development. &nbsp; ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- 📋 **Gancho** — **Smart Clipboard** for the Apple ecosystem: clipboard history + a searchable snippet library for Mac, iPhone & iPad. Private by design — your data stays on your devices. &nbsp; ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Apple](https://img.shields.io/badge/macOS%20·%20iOS%20·%20iPadOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Areas of ongoing client / contract work** *(generic)*
 
@@ -100,6 +103,25 @@ I value pragmatism over hype, fewer abstractions over clever ones, and tools tha
 
 ## Featured Projects
 
+### 🎭 [electron-stagewright](https://github.com/electron-stagewright/electron-stagewright) — Agent-Native Electron Automation
+
+> Drive Electron apps the way Playwright drives browsers — but designed for AI agents, not adapted for them.
+
+An MCP server that lets AI coding agents operate real Electron desktop apps. Agent-first from the primitive level up: errors carry recovery hints and similar-ref alternatives, every response reports its own token cost, composite `wait_for_state` predicates collapse multi-call chains, and retrying `expect_*` tools replace read-compare-retry loops. Ships replayable session traces with per-tool token budgets.
+
+```bash
+claude mcp add electron-stagewright --scope user -- \
+  npx -y --package @electron-stagewright/core --package playwright electron-stagewright
+```
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Docs](https://img.shields.io/badge/docs-online-success?style=flat-square)
+![Stars](https://img.shields.io/github/stars/electron-stagewright/electron-stagewright?style=flat-square&label=★)
+
+---
+
 ### 🐹 [gos](https://github.com/johnny4young/gos) — Go Version Switcher
 
 > Install and switch Go versions in seconds. One script. Zero dependencies.
@@ -115,7 +137,20 @@ gos current       # show what's running
 ![Shell](https://img.shields.io/badge/shell-bash-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-blue?style=flat-square)
 ![License](https://img.shields.io/github/license/johnny4young/gos?style=flat-square)
-![Stars](https://img.shields.io/github/stars/johnny4young/gos?style=flat-square)
+![Stars](https://img.shields.io/github/stars/johnny4young/gos?style=flat-square&label=★)
+
+---
+
+### 🖼️ [vitrine](https://github.com/johnny4young/vitrine) — Code → Beautiful Images
+
+> Turn code into beautiful images, straight from your macOS menu bar.
+
+A native macOS menu-bar app that turns snippets into share-ready images. Native, instant, and fully local — no account, no network, nothing leaves your machine. [Visit the website →](https://johnny4young.github.io/vitrine/)
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Website](https://img.shields.io/badge/website-live-success?style=flat-square)
+![Stars](https://img.shields.io/github/stars/johnny4young/vitrine?style=flat-square&label=★)
 
 ---
 

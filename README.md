@@ -1,5 +1,5 @@
 
-![Profile views](https://komarev.com/ghpvc/?username=johnny4young&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=johnny4young.johnny4young&title=Profile%20views&color=0e75b6&style=flat)
 
 <div align="center">
 

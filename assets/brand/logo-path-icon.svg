@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="~/iv mark">
+  <rect width="64" height="64" rx="14" fill="#0c1017"></rect>
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#155e75" stroke-width="1.5"></rect>
+  <text x="32" y="27" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="700" font-size="18" letter-spacing="-0.5" fill="#6b7280">~/</text>
+  <text x="26" y="49" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="700" font-size="23" letter-spacing="-1" fill="#e5e7eb">iv</text>
+  <rect x="40" y="36" width="8" height="14" rx="1.5" fill="#67e8f9"></rect>
+</svg>

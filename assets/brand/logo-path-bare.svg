@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 44" width="132" height="44" role="img" aria-label="~/iv">
+  <text x="2" y="34" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="700" font-size="34" letter-spacing="-1.5">
+    <tspan fill="#6b7280">~/</tspan><tspan fill="#e5e7eb">iv</tspan>
+  </text>
+  <rect x="103" y="9" width="17" height="28" rx="2" fill="#67e8f9"></rect>
+</svg>

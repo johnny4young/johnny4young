@@ -1,8 +1,8 @@
 <div align="center">
 
-# Johnny IV Young Ospino &nbsp;`johnny4young`
+<img src="assets/brand/github-banner.svg" alt="Johnny IV Young — Senior Backend and AI Engineer · Medellín" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=0E75B6&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%C2%B7+Medell%C3%ADn+%F0%9F%87%A8%F0%9F%87%B4;Building+production-grade+LLM+systems;Shipping+native+Apple+apps+in+Swift;Distributed+systems+%26+developer+tooling)](https://github.com/johnny4young)
+### `johnny4young` &nbsp;·&nbsp; Johnny IV Young Ospino
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -187,5 +187,9 @@ A POS for Latin American retail. Electron + React + Fastify + tRPC + SQLite, sha
 ---
 
 <div align="center">
-  <sub>Built for engineers who'd rather ship than manage installations.</sub>
+
+<img src="assets/brand/logo-path-icon.svg" alt="~/iv" width="40" height="40">
+
+<sub>Built for engineers who'd rather ship than manage installations.</sub>
+
 </div>

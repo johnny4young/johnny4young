@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 56" width="168" height="56" role="img" aria-label="~/iv — Johnny IV Young">
+  <rect x="0.5" y="0.5" width="167" height="55" rx="11.5" fill="#080b11" stroke="#1f2937"></rect>
+  <text x="20" y="38" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="700" font-size="30" letter-spacing="-1">
+    <tspan fill="#6b7280">~/</tspan><tspan fill="#e5e7eb">iv</tspan>
+  </text>
+  <rect x="118" y="17" width="15" height="24" rx="2" fill="#67e8f9"></rect>
+</svg>

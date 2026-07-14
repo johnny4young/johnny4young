@@ -47,16 +47,17 @@ Local-first clipboard history + curated snippet library for Mac, iPhone & iPad. 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ [Vitrine](https://github.com/johnny4young/vitrine)
-**Turn code into beautiful images**
+### 🎙️ [Portavoz](https://github.com/johnny4young/portavoz)
+**Privacy-first meeting assistant for Mac**
 
-A native macOS menu-bar app that turns snippets into share-ready images. Native, instant, and fully local — no account, no network, nothing leaves your machine. Built for developers who want gorgeous code shots without a web tool.
+Records and transcribes meetings live and tells apart every voice — including yours — entirely on-device: Neural Engine transcription, local diarization, and local (or opt-in cloud) bilingual summaries. Action items become GitHub/Linear issues, and a local MCP server lets your AI tools ask *"what did I agree to yesterday?"*
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift%206-F05138?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
-[![Website](https://img.shields.io/badge/vitrineframe.app-0e75b6?style=flat-square&logo=safari&logoColor=white)](https://vitrineframe.app)
-[![Stars](https://img.shields.io/github/stars/johnny4young/vitrine?style=flat-square&label=★&color=f5b400)](https://github.com/johnny4young/vitrine)
+[![Website](https://img.shields.io/badge/portavoz.app-0e75b6?style=flat-square&logo=safari&logoColor=white)](https://portavoz.app)
+[![Stars](https://img.shields.io/github/stars/johnny4young/portavoz?style=flat-square&label=★&color=f5b400)](https://github.com/johnny4young/portavoz)
 
 </td>
 </tr>
@@ -88,6 +89,16 @@ A POS for Latin American retail. Electron + React + Fastify + tRPC + SQLite, sha
 
 [![Website](https://img.shields.io/badge/puntovivo.app-0e75b6?style=flat-square&logo=safari&logoColor=white)](https://puntovivo.app)
 [![Stars](https://img.shields.io/github/stars/johnny4young/puntovivo?style=flat-square&label=★&color=f5b400)](https://github.com/johnny4young/puntovivo)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🖼️ [Vitrine](https://github.com/johnny4young/vitrine)
+**Turn code into beautiful images**
+
+A native macOS menu-bar app that turns snippets into share-ready images. Native, instant, and fully local — no account, no network, nothing leaves your machine. Built for developers who want gorgeous code shots without a web tool. &nbsp; ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) [![Website](https://img.shields.io/badge/vitrineframe.app-0e75b6?style=flat-square&logo=safari&logoColor=white)](https://vitrineframe.app) [![Stars](https://img.shields.io/github/stars/johnny4young/vitrine?style=flat-square&label=★&color=f5b400)](https://github.com/johnny4young/vitrine)
 
 </td>
 </tr>

@@ -50,20 +50,13 @@ TypeScript · Electron · React · Fastify · tRPC · SQLite
 
 ## Install
 
-```bash
-brew tap johnny4young/tap
-
-# macOS apps
-brew install --cask gancho portavoz secreteo vitrine lingua
-
-# CLIs (macOS + Linux)
-brew install gos lingua-cli
-```
+The Mac apps and CLIs install with Homebrew. The current casks, formulae, and versions are in the **[homebrew-tap](https://github.com/johnny4young/homebrew-tap)**.
 
 ## In the lab
 
 - **MeloSensei** *(private)*: a piano coach for iPad. You play short pieces on your own keyboard; it listens over MIDI and gives one correction at a time.
-- **herdr-portavoz** *(private)*: voice routing for Herdr agents. Say "codex: add tests for the parser" and the prompt reaches the right agent. The offline router works; live delivery does not exist yet.
+- **herdr-secreteo** *(private)*: voice routing for Herdr agents on top of Secreteo's dictation. Say "codex: add tests for the parser" and the prompt reaches the right agent. The offline router works; live delivery does not exist yet.
+- **VetCare** *(private)*: clinic management for veterinary practices. Reception and scheduling, medical records, hospital, pharmacy and cash register, grooming, and a portal for pet owners. React and TypeScript on the web, Spring Boot behind it.
 - **[local-model-store](https://github.com/johnny4young/local-model-store)**: one verified on-disk store for local AI models, so a model downloads once even when several of my apps need it.
 
 ## Client work
